@@ -1,7 +1,7 @@
 # 2021 PhysiCell Workshop and Hackathon
 These resources were originally developed for the 2021 Virtual PhysiCell Workshop and Hackathon, taking place July 25-31, 2021. 
 
-For a full agenda, please see [the main ws2021 page](http://PhysiCell.org/ws2021) and [here](https://github.org/physicell-training/ws2021/agenda.md).
+For a full agenda, please see [the main ws2021 page](http://PhysiCell.org/ws2021) and [here](https://github.com/physicell-training/ws2021/blob/main/agenda.md).
 
 ## Pre-workshop Materials
 To arrive prepared, all workshop participants should work through the pre-workshop materials prior to Monday, July 25th. 
