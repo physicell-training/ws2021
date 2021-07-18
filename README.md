@@ -11,7 +11,7 @@ To arrive prepared, all workshop participants should work through the pre-worksh
 
 ### Windows Setup
 * Slides: 
-* Video: 
+* Video: [click here](https://youtu.be/Jp3ZOMt761M)
 
 ### Introductory Materials
 ## Session 0: 
