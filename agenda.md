@@ -74,7 +74,7 @@ Take a virtual coffee break in GatherTown to mix and meet with your fellow parti
 ### 17:15-17:50. Brainstorming Round 1 (E)
 Start brainstorming for hackathon projects with your fellow workshop participants. 
 
-### 17:50-18:00. Day 1 wrap-up
+### 17:50-18:00. Day 1 wrap-up (E)
 Discuss the day's progress and set the stage for Day 2. 
 
 ### 18:00-19:00. (Optional) (E). 
@@ -133,7 +133,7 @@ Take a virtual coffee break in GatherTown to mix and meet with your fellow parti
 ### 17:20-17:50. Team Formation Round 2 (E)
 Continue forming teams for the hackathon projects. 
 
-### 17:50-18:00. Day 2 wrap-up
+### 17:50-18:00. Day 2 wrap-up (E)
 Discuss the day's progress and set the stage for Day 3. 
 
 ### 18:00-19:00. (Optional) (E). 
@@ -141,6 +141,67 @@ Please use GatherTown to continue getting to know your fellow participants.
 
 ### Asynchronous. Session 9: Contact testing and pressure. 
 Learn about testing for cell-cell contact and pressure in PhysiCell C++ projects
+
+To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 3 activities. 
+
+-----
+
+## Wednesday, July 28: Day 3 (All times US Eastern)
+
+### Asynchronous. Session 9: Contact testing and pressure. 
+Learn about testing for cell-cell contact and pressure in PhysiCell C++ projects
+
+To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 3 activities. 
+
+### 11:00-11:10. Welcome and Day's Goals
+Discuss the day's goals.
+
+### 11:10-12:00. Session 10: Contact examples
+Explore coding examples that use cell-cell contacts, including a "predator-prey" example and a "worm" example. 
+
+### 12:00-12:15. Break
+Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
+
+### 12:15-13:00. Session 11: Intracellular Modeling Part 1 (interactive)
+Learn how to write intracellular models (systems of ODEs) in cancer cell agents. Work through a cancer metabolism example. 
+
+### 13:00-13:45. Break
+Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
+
+### 13:45-15:00. Session 12: Intracellular Modeling Part 2 (interactive)
+Learn how to write intracellular models (systems of ODEs) in cancer cell agents. Work through a cancer metabolism example. 
+
+### 15:00-15:15. Break
+Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
+
+### 15:15-16:15. Team Time 1 (E)
+Work with your team on your project in GatherTown / Zoom breakout. 
+
+### 16:15-16:45. Break
+Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
+
+### 16:45-17:00. Team Time 2 (E)
+Work on brief presentations of your team's plans 
+
+### 17:00-17:50. Cross-Pollination: Team Brief Presentations (E)
+Briefly present your team's plan and get feedback from workshop participants. 
+
+### 17:50-18:00. Day 3 wrap-up (E)
+Discuss the day's progress and set the stage for Day 3. 
+
+### 18:00-19:00. (Optional) (E). 
+Please use GatherTown to continue getting to know your fellow participants. 
+
+### Asynchronous. Session 13: Sharing PhysiCell models on nanoHUB
+Learn about sharing PhysiCell models as cloud-hosted, "zero-install" models on nanoHUB. 
+
+To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 3 activities. 
+
+
+
+------
+### Asynchronous. Session 13: Sharing PhysiCell models on nanoHUB
+Learn about sharing PhysiCell models as cloud-hosted, "zero-install" models on nanoHUB. 
 
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 3 activities. 
 
