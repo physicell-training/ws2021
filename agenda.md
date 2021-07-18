@@ -36,13 +36,13 @@ Please see []()
 #### Virtual Social I (Optional) (E)
 Introduce yourself and meet your fellow participants in this virtual social. 
 
-Please prepare your 4 minute mini introduction using this [template]()
+Please prepare your 4 minute mini introduction using this [template](https://github.com/physicell-training/ws2021/raw/main/pptx_source/PhysiCell_ws2021_intro_template.pptx)
 
 ### Sunday, July 25 (4:00-5:30 pm US Eastern Time)
 #### Virtual Social II (Optional) (E)
 Introduce yourself and meet your fellow participants in this virtual social. 
 
-Please prepare your 4 minute mini introduction using this [template]()
+Please prepare your 4 minute mini introduction using this [template](https://github.com/physicell-training/ws2021/raw/main/pptx_source/PhysiCell_ws2021_intro_template.pptx)
 
 -----
 
