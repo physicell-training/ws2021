@@ -47,7 +47,7 @@ Please prepare your 4 minute mini introduction using this [template]()
 -----
 
 ## Monday, July 26: Day 1 (All times US Eastern)
-### 11-11:15. Welcome and Introduction
+### 11:00-11:15. Welcome and Introduction (E)
 Welcome participants, give the overall format, and discuss goals for the week. 
 
 ### 11:15-12:15. Session 2: First PhysiCell Dive
@@ -97,10 +97,10 @@ Learn about how to work with custom cell variables and user parameters. Learn ho
 
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 2 activities. 
 
-### 11-11:15. Welcome and Day's Goals
+### 11:00-11:10. Welcome and Day's Goals (E)
 Discuss the day's goals.
 
-### 11:15-12:30. Session 7: Functions in PhysiCell
+### 11:10-12:30. Session 7: Functions in PhysiCell
 Learn how to write custom C++ cell functions in PhysiCell, and use them to write dynamical cell phenotype that varies with microenvironmental conditions. This is the basis for turning your cell biological hypotheses into agent rules that can dynamicaly change cell phenotype in response to signals. 
 
 ### 12:30-13:00. Break
@@ -156,7 +156,7 @@ Learn about testing for cell-cell contact and pressure in PhysiCell C++ projects
 
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 3 activities. 
 
-### 11:00-11:10. Welcome and Day's Goals
+### 11:00-11:10. Welcome and Day's Goals (E)
 Discuss the day's goals.
 
 ### 11:10-12:00. Session 10: Contact examples
