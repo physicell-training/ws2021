@@ -1,5 +1,6 @@
 # 2021 PhysiCell Workshop and Hackathon Agenda
 This is the official, full agenda for the 2021 PhysiCell Workshop and Hackathon. 
+
 **last updated:** Sunday, July 18, 2021
 
 Events marked "E" are exclusive to accepted participants. All others are publicly accessible. Wherever possible, we will post full slides and video recordings for all sessions.
