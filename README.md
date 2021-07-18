@@ -10,7 +10,7 @@ To arrive prepared, all workshop participants should work through the pre-worksh
 * Video: [click here](https://www.youtube.com/watch?v=mv_phTdanws)
 
 ### Windows Setup
-* Slides: 
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Windows_setup.pdf) 
 * Video: [click here](https://youtu.be/Jp3ZOMt761M)
 
 ### Introductory Materials
