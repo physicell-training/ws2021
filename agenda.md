@@ -1,6 +1,4 @@
 # 2021 PhysiCell Workshop and Hackathon Agenda
-This 
-
 Events marked "E" are exclusive to accepted participants. All others are publicly accessible. Wherever possible, we will post full slides and video recordings for all sessions.
 
 ## Pre-Workshop Activities 
@@ -197,13 +195,77 @@ Learn about sharing PhysiCell models as cloud-hosted, "zero-install" models on n
 
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 3 activities. 
 
+-----
 
+## Thursday, July 29: Day 4 (All times US Eastern)
 
-------
 ### Asynchronous. Session 13: Sharing PhysiCell models on nanoHUB
 Learn about sharing PhysiCell models as cloud-hosted, "zero-install" models on nanoHUB. 
 
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 3 activities. 
+
+### 11:00-11:15. Welcome and Day's Goals (E)
+Discuss the day's goals.
+
+### 11:15-12:00. Team Time 3 (E)
+Work with your team in GatherTown / Zoom. 
+
+### 12:00-12:15. Break
+Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
+
+### 12:15-13:30. Team Time 4 (E) 
+Work with your team in GatherTown / Zoom. 
+
+### 13:30-14:15. Break
+Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
+
+### 14:15-16:00. Team Time 5 (E) 
+Work with your team in GatherTown / Zoom. 
+
+### 16:00-16:15. Break
+Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
+
+### 16:15-17:00. Prepare Preliminary Results (E) 
+Work with your team in GatherTown / Zoom to prepare your preliminary results. 
+
+### 17:00-17:50. Cross-Pollination: Prepare Preliminary Results (E) 
+Present your preliminary results for participant feedback and brainstorming. 
+
+### 17:50-18:00. Day 4 wrap-up (E)
+Discuss the day's progress and set the stage for Day 4. 
+
+### 18:00-19:00. (Optional) (E). 
+Please use GatherTown to continue getting to know your fellow participants. 
+
+-----
+
+## Friday, July 30: Day 5 (All times US Eastern)
+
+### 11:00-11:15. Welcome and Day's Goals (E)
+Discuss the day's goals.
+
+### 11:15-12:15. Team Time 5 (E)
+Work with your team in GatherTown / Zoom. 
+
+### 12:15-12:30. Break
+Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
+
+### 12:30-13:00. Cross-Pollination: Problem Solving (E)  
+Discuss any rpboerlms 
+
+### 13:00-17:45. Team Time 6 (E) 
+Work with your team in GatherTown / Zoom. Schedule breaks on your own as needed. 
+
+### 17:45-18:00. Day 5 wrap-up (E)
+Discuss the day's progress and set the stage for group presentations. 
+
+### 18:00-19:00. (Optional) (E). 
+Please use GatherTown to continue getting to know your fellow participants. 
+
+-----
+
+## Saturday, July 31: Final Presentations (All times US Eastern)
+Brielfy present your team's project results for the community and for consideration for prizes. Detailed schedule TBA. 
 
 
 
