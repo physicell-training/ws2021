@@ -22,6 +22,10 @@ To arrive prepared, all workshop participants should work through the pre-worksh
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session1.pdf)
 * Video: [click here](https://youtu.be/fP7-n_RlITU) 
 
+### 4 Minute Lighting Self Introduction 
+Template slide deck to introduce yourself in the virtual social hours. 
+* Slides: https://github.com/physicell-training/ws2021/raw/main/pptx_source/PhysiCell%202021Template.pptx 
+
 -------
 ## Monday (July 26, 2021)
 -------
