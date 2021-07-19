@@ -11,7 +11,7 @@ To arrive prepared, all workshop participants should work through the pre-worksh
 
 ### Windows Setup
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Windows_setup.pdf) 
-* Video: [click here](https://youtu.be/Jp3ZOMt761M)
+* Video: [click here](https://www.youtube.com/watch?v=Jp3ZOMt761M)
 
 ### Introductory Materials
 #### Session 0: Introduction to agent-based modeling and PhysiCell (approx 40 min)
