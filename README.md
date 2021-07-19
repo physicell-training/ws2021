@@ -18,14 +18,12 @@ To arrive prepared, all workshop participants should work through the pre-worksh
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session0.pdf)
 * Video: [click here](https://youtu.be/RWI0SKX49eo)
 
-#### Session 1: Working with Projects in PhysiCell (approx ? min)
-* Slides: 
-* Video: 
+#### Session 1: Working with Projects in PhysiCell (approx 20 min)
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session1.pdf)
+* Video: [click here](https://youtu.be/fP7-n_RlITU) 
 
 -------
-
 ## Monday (July 26, 2021)
-
 -------
 ## Tuesday (July 27, 2021)
 -------
