@@ -14,11 +14,11 @@ To arrive prepared, all workshop participants should work through the pre-worksh
 * Video: [click here](https://youtu.be/Jp3ZOMt761M)
 
 ### Introductory Materials
-## Session 0: 
-* Slides: 
-* Video: 
+#### Session 0: Introduction to agent-based modeling and PhysiCell (approx 40 min)
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session0.pdf)
+* Video: [click here](https://youtu.be/RWI0SKX49eo)
 
-## Session 1: 
+#### Session 1: Working with Projects in PhysiCell (approx ? min)
 * Slides: 
 * Video: 
 
