@@ -24,7 +24,7 @@ To arrive prepared, all workshop participants should work through the pre-worksh
 
 ### 4 Minute Lighting Self Introduction 
 Template slide deck to introduce yourself in the virtual social hours. 
-* Slides: https://github.com/physicell-training/ws2021/blob/main/pptx_source/PhysiCell_ws2021_intro_template.pptx 
+* Slides: [click here](https://github.com/physicell-training/ws2021/raw/main/pptx_source/PhysiCell_ws2021_intro_template.pptx)
 
 -------
 ## Monday (July 26, 2021)
