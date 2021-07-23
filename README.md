@@ -26,6 +26,11 @@ To arrive prepared, all workshop participants should work through the pre-worksh
 Template slide deck to introduce yourself in the virtual social hours. 
 * Slides: [click here](https://github.com/physicell-training/ws2021/raw/main/pptx_source/PhysiCell_ws2021_intro_template.pptx)
 
+### Gather and Slack introduction (E)
+Please note that only registered / accepted participants will have access to Gather. 
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Slack_Gather_Guide.pdf) 
+* Video: [click here](https://youtu.be/IUhnbH6DozA)
+
 -------
 ## Monday (July 26, 2021)
 -------
