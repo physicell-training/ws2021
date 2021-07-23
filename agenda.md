@@ -26,11 +26,13 @@ We will use GatherTown as our virtual conference space, particularly to help nav
 
 (Details to come!) 
 
-#### Watch Session 0: Agent-Based Models and PhysiCell
-Please see []()
+#### Watch Session 0: Introduction to agent-based modeling and PhysiCell (approx 40 min)
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session0.pdf)
+* Video: [click here](https://youtu.be/RWI0SKX49eo)
 
-#### Watch Session 1: Working with PhysiCell Projects 
-Please see []()
+#### Watch Session 1: Working with Projects in PhysiCell (approx 20 min)
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session1.pdf)
+* Video: [click here](https://youtu.be/fP7-n_RlITU) 
 
 ### Friday, July 25 (2:00-3:30 pm US Eastern Time)
 #### Virtual Social I (Optional) (E)
