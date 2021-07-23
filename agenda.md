@@ -22,9 +22,7 @@ We use a dedicated Slack workspace for annoucements, troubleshooting, and other 
 https://join.slack.com/t/physicellcomm-sf93727/shared_invite/zt-qj1av6yd-yVeer8VkQaNDjDz7fF00jA 
 
 #### Join the GatherTown space (E)
-We will use GatherTown as our virtual conference space, particularly to help navigate between zoom rooms for the virtual hackathon and breakout sessions. 
-
-(Details to come!) 
+We will use GatherTown as our virtual conference space, particularly to help navigate between zoom rooms for the virtual hackathon and breakout sessions. Details sent by email to full participants. 
 
 #### Watch Session 0: Introduction to agent-based modeling and PhysiCell (approx 40 min)
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session0.pdf)
