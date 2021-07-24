@@ -52,6 +52,7 @@ Welcome participants, give the overall format, and discuss goals for the week.
 
 ### 11:15-12:15. Session 2: First PhysiCell Dive
 Give an introduction to modeling with PhysiCell using built-in sample projects, including basic data visualization and data access in Jupyter notebooks. 
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session2.pdf) 
 
 ### 12:15-13:00. Break
 Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
