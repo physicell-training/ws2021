@@ -33,12 +33,60 @@ Please note that only registered / accepted participants will have access to Gat
 
 -------
 ## Monday (July 26, 2021)
+### Session 2: PhysiCell First Dive 
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session2.pdf)
+* Video: 
+
+### Session 3: Introduction to Cell Phenotype in PhysiCell (Part 1)
+* Slides:
+* Video: 
+
+### Session 4: Introduction to Cell Phenotype in PhysiCell (Part 2)
+* Slides:
+* Video: 
+
+### Session 5: Session 5: A complete example (interactive) 
+* Slides:
+* Video: 
+
 -------
 ## Tuesday (July 27, 2021)
+### Session 6: Introduction to Custom Variables, Parameters, and C++ searches
+* Slides:  
+* Video: 
+
+### Session 7: Functions in PhysiCell
+* Slides:
+* Video: 
+
+### Session 8: Chemical Communication in PhysiCell
+* Slides:
+* Video: 
+
 -------
 ## Wednesday (July 28, 2021)
+### Session 9: Contact testing and pressure
+* Slides:  
+* Video: 
+
+### Session 10: Contact examples
+* Slides:
+* Video: 
+
+### Session 11: Intracellular Modeling Part 1 (interactive)
+* Slides:
+* Video: 
+ 
+### Session 12: Intracellular Modeling Part 2 (interactive)
+* Slides:
+* Video: 
+
 -------
 ## Thursday (July 29, 2021)
+### Session 13: Sharing models via nanoHUB
+* Slides:
+* Video: 
+
 -------
 ## Friday (July 30, 2021)
 
