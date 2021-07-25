@@ -166,23 +166,20 @@ Explore coding examples that use cell-cell contacts, including a "predator-prey"
 ### 12:00-12:15. Break
 Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
 
-### 12:15-13:00. Session 11: Intracellular Modeling Part 1 (interactive)
+### 12:15-13:15. Session 11: Intracellular Modeling Part 1 (interactive)
 Learn how to write intracellular models (systems of ODEs) in cancer cell agents. Work through a cancer metabolism example. 
 
-### 13:00-13:45. Break
+### 13:15-13:30. Break
 Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
 
-### 13:45-15:00. Session 12: Intracellular Modeling Part 2 (interactive)
+### 13:30-15:00. Session 12: Intracellular Modeling Part 2 (interactive)
 Learn how to write intracellular models (systems of ODEs) in cancer cell agents. Work through a cancer metabolism example. 
 
-### 15:00-15:15. Break
+### 15:00-15:45. Break
 Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
 
-### 15:15-16:15. Team Time 1 (E)
+### 15:45-16:45. Team Time 1 (E)
 Work with your team on your project in GatherTown / Zoom breakout. 
-
-### 16:15-16:45. Break
-Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
 
 ### 16:45-17:00. Team Time 2 (E)
 Work on brief presentations of your team's plans 
