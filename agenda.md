@@ -49,6 +49,7 @@ Please prepare your 4 minute mini introduction using this [template](https://git
 ## Monday, July 26: Day 1 (All times US Eastern)
 ### 11:00-11:15. Welcome and Introduction (E)
 Welcome participants, give the overall format, and discuss goals for the week. 
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell%202021_Day1_welcome.pdf)
 
 ### 11:15-12:15. Session 2: First PhysiCell Dive
 Give an introduction to modeling with PhysiCell using built-in sample projects, including basic data visualization and data access in Jupyter notebooks. 
