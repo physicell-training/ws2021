@@ -57,7 +57,7 @@ Please note that only registered / accepted participants will have access to Gat
 -------
 ## Tuesday (July 27, 2021)
 ### Session 6: Introduction to Custom Variables, Parameters, and C++ searches
-* Slides:  
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session6.pdf)
 * Video: 
 
 ### Day 2 Welcome
@@ -69,7 +69,7 @@ Please note that only registered / accepted participants will have access to Gat
 * Video: 
 
 ### Session 8: Chemical Communication in PhysiCell
-* Slides:
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session8.pdf)
 * Video: 
 
 -------
