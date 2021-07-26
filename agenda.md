@@ -83,6 +83,7 @@ Take a virtual coffee break in GatherTown to mix and meet with your fellow parti
 
 ### 17:15-17:50. Brainstorming Round 1 (E)
 Start brainstorming for hackathon projects with your fellow workshop participants. 
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell%202021_Brainstorming1.pdf) 
 
 ### 17:50-18:00. Day 1 wrap-up (E)
 Discuss the day's progress and set the stage for Day 2. 
