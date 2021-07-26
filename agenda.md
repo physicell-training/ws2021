@@ -59,18 +59,21 @@ Take a virtual coffee break in GatherTown to mix and meet with your fellow parti
 
 ### 13:00-13:45. Session 3: Introduction to Cell Phenotype in PhysiCell (Part 1). 
 Learn about cell phenotype in PhysiCell. Modulating cell phenotype in response to microenvironmental and other signals is key to agent-based modeling in PhysiCell. 
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session3.pdf)
 
 ### 13:45-14:00. Break
 Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
 
 ### 14:00-14:45. Session 4: Introduction to Cell Phenotype in PhysiCell (Part 2). 
 Learn about cell phenotype in PhysiCell. Modulating cell phenotype in response to microenvironmental and other signals is key to agent-based modeling in PhysiCell. 
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session4.pdf)
 
 ### 14:45-15:30. Break
 Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
 
 ### 15:30-17:00. Session 5: A complete example (interactive)
 Work through a complete modeling example from start to finish. This session will focus on defining multiple cell definitions in a model of clonal competition in a tumor. This model can be built completely through XML markup via a graphical interface with no additional C++. 
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session5.pdf)
 
 ### 17:00-17:15. Break
 Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
@@ -103,6 +106,7 @@ Discuss the day's goals.
 
 ### 11:10-12:30. Session 7: Functions in PhysiCell
 Learn how to write custom C++ cell functions in PhysiCell, and use them to write dynamical cell phenotype that varies with microenvironmental conditions. This is the basis for turning your cell biological hypotheses into agent rules that can dynamicaly change cell phenotype in response to signals. 
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session7.pdf)
 
 ### 12:30-13:00. Break
 Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
