@@ -55,6 +55,7 @@ Welcome participants, give the overall format, and discuss goals for the week.
 Give an introduction to modeling with PhysiCell using built-in sample projects, including basic data visualization and data access in Jupyter notebooks. 
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session2.pdf) 
 * Code: [click here](https://github.com/physicell-training/ws2021/tree/main/code/Session_2)
+* Video: [click here](https://youtu.be/fSpyhVry3eU)
 
 ### 12:15-13:00. Break
 Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
@@ -69,6 +70,7 @@ Take a virtual coffee break in GatherTown to mix and meet with your fellow parti
 ### 14:00-14:45. Session 4: Introduction to Cell Phenotype in PhysiCell (Part 2). 
 Learn about cell phenotype in PhysiCell. Modulating cell phenotype in response to microenvironmental and other signals is key to agent-based modeling in PhysiCell. 
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session4.pdf)
+* Video: [click here](https://youtu.be/Kb47UeMrTjY) 
 
 ### 14:45-15:30. Break
 Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
