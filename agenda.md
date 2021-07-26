@@ -106,6 +106,7 @@ To reduce Zoom fatigue sessions like this have been moved to asynchronous to wat
 
 ### 11:00-11:10. Welcome and Day's Goals (E)
 Discuss the day's goals.
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell%202021_Day2_welcome.pdf)
 
 ### 11:10-12:30. Session 7: Functions in PhysiCell
 Learn how to write custom C++ cell functions in PhysiCell, and use them to write dynamical cell phenotype that varies with microenvironmental conditions. This is the basis for turning your cell biological hypotheses into agent rules that can dynamicaly change cell phenotype in response to signals. 

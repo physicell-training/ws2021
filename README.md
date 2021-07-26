@@ -60,6 +60,9 @@ Please note that only registered / accepted participants will have access to Gat
 * Slides:  
 * Video: 
 
+### Day 2 Welcome
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell%202021_Day2_welcome.pdf)
+
 ### Session 7: Functions in PhysiCell
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session7.pdf)
 * Code: [click here](https://github.com/physicell-training/ws2021/tree/main/code/Session_7)
