@@ -87,6 +87,7 @@ Start brainstorming for hackathon projects with your fellow workshop participant
 
 ### 17:50-18:00. Day 1 wrap-up (E)
 Discuss the day's progress and set the stage for Day 2. 
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell%202021_Day1_wrapup.pdf) 
 
 ### 18:00-19:00. (Optional) (E). 
 Please use GatherTown to continue getting to know your fellow participants. 
