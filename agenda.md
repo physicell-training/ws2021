@@ -63,6 +63,7 @@ Take a virtual coffee break in GatherTown to mix and meet with your fellow parti
 ### 13:00-13:45. Session 3: Introduction to Cell Phenotype in PhysiCell (Part 1). 
 Learn about cell phenotype in PhysiCell. Modulating cell phenotype in response to microenvironmental and other signals is key to agent-based modeling in PhysiCell. 
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session3.pdf)
+* Video: [click here](https://youtu.be/EqqEQWRaoak) 
 
 ### 13:45-14:00. Break
 Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
