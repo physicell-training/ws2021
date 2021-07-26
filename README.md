@@ -33,6 +33,9 @@ Please note that only registered / accepted participants will have access to Gat
 
 -------
 ## Monday (July 26, 2021)
+### Day 1 Welcome
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell%202021_Day1_welcome.pdf)
+
 ### Session 2: PhysiCell First Dive 
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session2.pdf)
 * Video: 
