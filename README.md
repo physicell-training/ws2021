@@ -39,7 +39,7 @@ Please note that only registered / accepted participants will have access to Gat
 ### Session 2: PhysiCell First Dive 
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session2.pdf)
 * Code: [click here](https://github.com/physicell-training/ws2021/tree/main/code/Session_2) 
-* Video: 
+* Video: [click here](https://youtu.be/fSpyhVry3eU) 
 
 ### Session 3: Introduction to Cell Phenotype in PhysiCell (Part 1)
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session3.pdf)
@@ -47,7 +47,7 @@ Please note that only registered / accepted participants will have access to Gat
 
 ### Session 4: Introduction to Cell Phenotype in PhysiCell (Part 2)
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session4.pdf)
-* Video: 
+* Video: [click here](https://youtu.be/Kb47UeMrTjY) 
 
 ### Session 5: Session 5: A complete example (interactive) 
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session5.pdf)
