@@ -97,6 +97,7 @@ Please use GatherTown to continue getting to know your fellow participants.
 
 ### Asynchronous. Session 6: Introduction to Custom Variables, Parameters, and C++ searches
 Learn about how to work with custom cell variables and user parameters. Learn how to search for and access custom variables, user parameters, cell definitions, and microenvironment substrates from within C++ in a PhysiCell project. 
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session6.pdf)
 
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 2 activities. 
 
@@ -106,6 +107,7 @@ To reduce Zoom fatigue sessions like this have been moved to asynchronous to wat
 
 ### Asynchronous. Session 6: Introduction to Custom Variables, Parameters, and C++ searches
 Learn about how to work with custom cell variables and user parameters. Learn how to search for and access custom variables, user parameters, cell definitions, and microenvironment substrates from within C++ in a PhysiCell project. 
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session6.pdf)
 
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 2 activities. 
 
@@ -123,6 +125,7 @@ Take a virtual coffee break in GatherTown to mix and meet with your fellow parti
 
 ### 13:00-14:00. Session 8: Chemical Communication in PhysiCell
 Learn how to use diffusible signals for chemical communication and coordination between cell agents. 
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session8.pdf)
 
 ### 14:00-14:15. Break
 Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
