@@ -283,7 +283,7 @@
 
           <death>
             <model code="100" name="apoptosis">
-              <death_rate units="1/min">0</death_rate>
+              <death_rate units="1/min">0.0</death_rate>
               <phase_durations units="min">
                 <duration fixed_duration="true" index="0">516</duration>
               </phase_durations>
@@ -382,7 +382,7 @@
         <number_of_cells description="initial number of cells (for each cell type)" type="int" units="none">5</number_of_cells>
         <number_of_bacteria description="" type="int" units="none">100</number_of_bacteria>
         <radius_bacteria_region description="" type="double" units="micron">100</radius_bacteria_region>
-        <number_of_suppliers description="" type="int" units="">50.0</number_of_suppliers>
+        <number_of_suppliers description="" type="int" units="none">50</number_of_suppliers>
         </user_parameters>
 	
 </PhysiCell_settings>
