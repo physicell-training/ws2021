@@ -129,6 +129,7 @@ Take a virtual coffee break in GatherTown to mix and meet with your fellow parti
 ### 13:00-14:00. Session 8: Chemical Communication in PhysiCell
 Learn how to use diffusible signals for chemical communication and coordination between cell agents. 
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session8.pdf)
+* Code: [click here](https://github.com/physicell-training/ws2021/tree/main/code/Session_8)
 
 ### 14:00-14:15. Break
 Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
