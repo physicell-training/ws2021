@@ -80,6 +80,7 @@ Take a virtual coffee break in GatherTown to mix and meet with your fellow parti
 Work through a complete modeling example from start to finish. This session will focus on defining multiple cell definitions in a model of clonal competition in a tumor. This model can be built completely through XML markup via a graphical interface with no additional C++. 
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session5.pdf)
 * Code: [click here](https://github.com/physicell-training/ws2021/tree/main/code/Session_5)
+* Video: [click here](https://youtu.be/YpQV65CJdGw) 
 
 ### 17:00-17:15. Break
 Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
