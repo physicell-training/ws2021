@@ -163,6 +163,8 @@ Please use GatherTown to continue getting to know your fellow participants.
 
 ### Asynchronous. Session 9: Contact testing and pressure. 
 Learn about testing for cell-cell contact and pressure in PhysiCell C++ projects
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session9.pdf)
+* Video: [click here](https://youtu.be/RwzWBBXkEEg)
 
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 3 activities. 
 
@@ -172,6 +174,8 @@ To reduce Zoom fatigue sessions like this have been moved to asynchronous to wat
 
 ### Asynchronous. Session 9: Contact testing and pressure. 
 Learn about testing for cell-cell contact and pressure in PhysiCell C++ projects
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session9.pdf)
+* Video: [click here](https://youtu.be/RwzWBBXkEEg)
 
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 3 activities. 
 
