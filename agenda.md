@@ -99,6 +99,7 @@ Please use GatherTown to continue getting to know your fellow participants.
 ### Asynchronous. Session 6: Introduction to Custom Variables, Parameters, and C++ searches
 Learn about how to work with custom cell variables and user parameters. Learn how to search for and access custom variables, user parameters, cell definitions, and microenvironment substrates from within C++ in a PhysiCell project. 
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session6.pdf)
+* Video: [click here](https://youtu.be/Fvd3aQ63fK4) 
 
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 2 activities. 
 
@@ -109,6 +110,7 @@ To reduce Zoom fatigue sessions like this have been moved to asynchronous to wat
 ### Asynchronous. Session 6: Introduction to Custom Variables, Parameters, and C++ searches
 Learn about how to work with custom cell variables and user parameters. Learn how to search for and access custom variables, user parameters, cell definitions, and microenvironment substrates from within C++ in a PhysiCell project. 
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session6.pdf)
+* Video: [click here](https://youtu.be/Fvd3aQ63fK4) 
 
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 2 activities. 
 
