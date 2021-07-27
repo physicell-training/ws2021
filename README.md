@@ -76,8 +76,8 @@ Please note that only registered / accepted participants will have access to Gat
 -------
 ## Wednesday (July 28, 2021)
 ### Session 9: Contact testing and pressure
-* Slides:  
-* Video: 
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session9.pdf)
+* Video: [click here](https://youtu.be/RwzWBBXkEEg)
 
 ### Session 10: Contact examples
 * Slides:
