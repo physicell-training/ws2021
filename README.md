@@ -80,7 +80,8 @@ Please note that only registered / accepted participants will have access to Gat
 * Video: [click here](https://youtu.be/RwzWBBXkEEg)
 
 ### Session 10: Contact examples
-* Slides:
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session10.pdf)
+* Code: [click here](https://github.com/physicell-training/ws2021/tree/main/code/Session_10)
 * Video: 
 
 ### Session 11: Intracellular Modeling Part 1 (interactive)
