@@ -122,6 +122,7 @@ Discuss the day's goals.
 Learn how to write custom C++ cell functions in PhysiCell, and use them to write dynamical cell phenotype that varies with microenvironmental conditions. This is the basis for turning your cell biological hypotheses into agent rules that can dynamicaly change cell phenotype in response to signals. 
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session7.pdf)
 * Code: [click here](https://github.com/physicell-training/ws2021/tree/main/code/Session_7)
+* Video: [click here](https://youtu.be/ygK7THTN_QU)
 
 ### 12:30-13:00. Break
 Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
@@ -130,6 +131,7 @@ Take a virtual coffee break in GatherTown to mix and meet with your fellow parti
 Learn how to use diffusible signals for chemical communication and coordination between cell agents. 
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session8.pdf)
 * Code: [click here](https://github.com/physicell-training/ws2021/tree/main/code/Session_8)
+* Video: [click here](https://youtu.be/tu3gUseGY8g)
 
 ### 14:00-14:15. Break
 Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
