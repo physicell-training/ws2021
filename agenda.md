@@ -182,11 +182,22 @@ Learn about testing for cell-cell contact and pressure in PhysiCell C++ projects
 
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 3 activities. 
 
+### 9:30-10:30. PhysiBoSS enables multiscale simulations of signalling pathways (Optional)
+Arnau Montagud (Barcelona Supercomputing Center) will present a tuturial on PhysiBoSS: the first official PhysiCell plug-in, which supports Boolean signaling models (via MaBoSS) in PhysiCell agents. 
+* Slides: 
+* Video: 
+
 ### 11:00-11:10. Welcome and Day's Goals (E)
 Discuss the day's goals.
+* Slides: [click here]()
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell%202021_Day2_welcome.pdf)
+
 
 ### 11:10-12:00. Session 10: Contact examples
 Explore coding examples that use cell-cell contacts, including a "predator-prey" example and a "worm" example. 
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session10.pdf)
+* Code: [click here](https://github.com/physicell-training/ws2021/tree/main/code/Session_10)
+* Video: 
 
 ### 12:00-12:15. Break
 Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
