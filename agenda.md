@@ -186,7 +186,7 @@ To reduce Zoom fatigue sessions like this have been moved to asynchronous to wat
 
 ### 9:30-10:30. PhysiBoSS enables multiscale simulations of signalling pathways (Optional)
 Arnau Montagud (Barcelona Supercomputing Center) will present a tuturial on PhysiBoSS: the first official PhysiCell plug-in, which supports Boolean signaling models (via MaBoSS) in PhysiCell agents. 
-* Slides: 
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_PhysiBoSS.pdf) 
 * Video: 
 
 ### 11:00-11:10. Welcome and Day's Goals (E)
