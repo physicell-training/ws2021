@@ -75,6 +75,11 @@ Please note that only registered / accepted participants will have access to Gat
 
 -------
 ## Wednesday (July 28, 2021)
+### Special Session: PhysiBoSS enables multiscale simulations of signalling pathways
+A special guest lecture by Arnau Montagud (Barcelona Supercomputing Center) on PhysiBoSS, which integrates MaBoSS Boolean networks in PhysiCell agents. 
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_PhysiBoSS.pdf) 
+* Video: 
+
 ### Session 9: Contact testing and pressure
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session9.pdf)
 * Video: [click here](https://youtu.be/RwzWBBXkEEg)
