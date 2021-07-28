@@ -204,10 +204,7 @@ Learn how to write intracellular models (systems of ODEs) in cancer cell agents.
 Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
 
 ### 15:45-16:45. Team Time 1 (E)
-Work with your team on your project in GatherTown / Zoom breakout. 
-
-### 16:45-17:00. Team Time 2 (E)
-Work on brief presentations of your team's plans 
+Work with your team on your project in GatherTown / Zoom breakout. Work on brief presentations of your team's plans 
 
 ### 17:00-17:50. Cross-Pollination: Team Brief Presentations (E)
 Briefly present your team's plan and get feedback from workshop participants. 
@@ -235,19 +232,19 @@ To reduce Zoom fatigue sessions like this have been moved to asynchronous to wat
 ### 11:00-11:15. Welcome and Day's Goals (E)
 Discuss the day's goals.
 
-### 11:15-12:00. Team Time 3 (E)
+### 11:15-12:00. Team Time 2 (E)
 Work with your team in GatherTown / Zoom. 
 
 ### 12:00-12:15. Break
 Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
 
-### 12:15-13:30. Team Time 4 (E) 
+### 12:15-13:30. Team Time 3 (E) 
 Work with your team in GatherTown / Zoom. 
 
 ### 13:30-14:15. Break
 Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
 
-### 14:15-16:00. Team Time 5 (E) 
+### 14:15-16:00. Team Time 4 (E) 
 Work with your team in GatherTown / Zoom. 
 
 ### 16:00-16:15. Break
