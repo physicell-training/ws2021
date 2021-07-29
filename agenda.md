@@ -187,7 +187,7 @@ To reduce Zoom fatigue sessions like this have been moved to asynchronous to wat
 ### 9:30-10:30. PhysiBoSS enables multiscale simulations of signalling pathways (Optional)
 Arnau Montagud (Barcelona Supercomputing Center) will present a tuturial on PhysiBoSS: the first official PhysiCell plug-in, which supports Boolean signaling models (via MaBoSS) in PhysiCell agents. 
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_PhysiBoSS.pdf) 
-* Video: 
+* Video: [click here](https://youtu.be/2w2-Q-gvO4U)
 
 ### 11:00-11:10. Welcome and Day's Goals (E)
 Discuss the day's goals.
@@ -199,19 +199,23 @@ Discuss the day's goals.
 Explore coding examples that use cell-cell contacts, including a "predator-prey" example and a "worm" example. 
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session10.pdf)
 * Code: [click here](https://github.com/physicell-training/ws2021/tree/main/code/Session_10)
-* Video: 
+* Video: [click here](https://youtu.be/_k4BdLm5LTU)
 
 ### 12:00-12:15. Break
 Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
 
 ### 12:15-13:15. Session 11: Intracellular Modeling Part 1 (interactive)
 Learn how to write intracellular models (systems of ODEs) in cancer cell agents. Work through a cancer metabolism example. 
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session11.pdf)
+* Video: [click here](https://youtu.be/w3gdgFSwtms) 
 
 ### 13:15-13:30. Break
 Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
 
 ### 13:30-15:00. Session 12: Intracellular Modeling Part 2 (interactive)
 Learn how to write intracellular models (systems of ODEs) in cancer cell agents. Work through a cancer metabolism example. 
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session12.pdf)
+* Video: [click here](https://youtu.be/lMtG44cJejM) 
 
 ### 15:00-15:45. Break
 Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
@@ -230,6 +234,8 @@ Please use GatherTown to continue getting to know your fellow participants.
 
 ### Asynchronous. Session 13: Sharing PhysiCell models on nanoHUB
 Learn about sharing PhysiCell models as cloud-hosted, "zero-install" models on nanoHUB. 
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session13.pdf)
+* Video: [click here](https://youtu.be/lTQCRWzJnyI) 
 
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 3 activities. 
 
@@ -239,6 +245,8 @@ To reduce Zoom fatigue sessions like this have been moved to asynchronous to wat
 
 ### Asynchronous. Session 13: Sharing PhysiCell models on nanoHUB
 Learn about sharing PhysiCell models as cloud-hosted, "zero-install" models on nanoHUB. 
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session13.pdf)
+* Video: [click here](https://youtu.be/lTQCRWzJnyI) 
 
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 3 activities. 
 
