@@ -78,7 +78,7 @@ Please note that only registered / accepted participants will have access to Gat
 ### Special Session: PhysiBoSS enables multiscale simulations of signalling pathways
 A special guest lecture by Arnau Montagud (Barcelona Supercomputing Center) on PhysiBoSS, which integrates MaBoSS Boolean networks in PhysiCell agents. 
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_PhysiBoSS.pdf) 
-* Video: 
+* Video: [click here](https://youtu.be/2w2-Q-gvO4U)
 
 ### Session 9: Contact testing and pressure
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session9.pdf)
@@ -87,21 +87,21 @@ A special guest lecture by Arnau Montagud (Barcelona Supercomputing Center) on P
 ### Session 10: Contact examples
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session10.pdf)
 * Code: [click here](https://github.com/physicell-training/ws2021/tree/main/code/Session_10)
-* Video: 
+* Video: [click here](https://youtu.be/_k4BdLm5LTU)
 
 ### Session 11: Intracellular Modeling Part 1 (interactive)
-* Slides:
-* Video: 
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session11.pdf)
+* Video: [click here](https://youtu.be/w3gdgFSwtms) 
  
 ### Session 12: Intracellular Modeling Part 2 (interactive)
-* Slides:
-* Video: 
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session12.pdf)
+* Video: [click here](https://youtu.be/lMtG44cJejM) 
 
 -------
 ## Thursday (July 29, 2021)
 ### Session 13: Sharing models via nanoHUB
-* Slides:
-* Video: 
+* Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session13.pdf)
+* Video: [click here](https://youtu.be/lTQCRWzJnyI) 
 
 -------
 ## Friday (July 30, 2021)
