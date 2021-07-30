@@ -105,7 +105,11 @@ A special guest lecture by Arnau Montagud (Barcelona Supercomputing Center) on P
 
 -------
 ## Friday (July 30, 2021)
+### Final presentation templates: 
+Adapt as you see best:
+* Model presentation template [click here](https://github.com/physicell-training/ws2021/raw/main/pptx_source/PhysiCell_ws2021_final_presentation_template(model).pptx)
+* Toll presentation template [click here](https://github.com/physicell-training/ws2021/raw/main/pptx_source/PhysiCell_ws2021_final_presentation_template(tool).pptx)
 
-
+See the presentation schedule for Saturday in [agenda](https://github.com/physicell-training/ws2021/blob/main/agenda.md).
 
 
