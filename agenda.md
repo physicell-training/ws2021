@@ -253,8 +253,8 @@ To reduce Zoom fatigue sessions like this have been moved to asynchronous to wat
 ### 11:00-17:00. Team Time (E)
 Work with your team in GatherTown / Zoom. 
 
-### 17:00-19:00. Prepare Preliminary Results (E) 
-Work with your team in GatherTown / Zoom to prepare your preliminary results. 
+### 17:00-19:00. Presenet Preliminary Results (E) 
+Share your team's preliminary results in GatherTown / Zoom. 
 
 ### 19:00-24:00. (Optional) (E). 
 Please use GatherTown to continue getting to know your fellow participants. 
