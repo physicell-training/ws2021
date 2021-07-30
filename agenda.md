@@ -313,5 +313,21 @@ Please use GatherTown to continue getting to know your fellow participants.
 ## Saturday, July 31: Final Presentations (All times US Eastern)
 Brielfy present your team's project results for the community and for consideration for prizes. Detailed schedule TBA. 
 
+30 minute presetation, with 10 minutes of Q&A. 
 
+### Presentation templates: 
 
+### 11-11:40 Team 1 presentation (E) 
+### 11:40-12:20 Team 3 presentation (E) 
+### 12:20-13:00 Team 4 presentation (E)
+
+### 13:00-14:00 BREAK 
+
+### 14:00-14:40 Team 5 presentation (E)
+### 14:40-15:20 Team 6 presentation (E)
+### 15:20-16:00 Team 7 presentation (E)
+### 16:00-16:40 Team 8 presentation (E)
+
+### 16:40-17:10 Judging (organizers)
+
+### 17:10-17:30 Announce winners and farewell (E) 
