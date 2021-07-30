@@ -316,6 +316,9 @@ Brielfy present your team's project results for the community and for considerat
 30 minute presetation, with 10 minutes of Q&A. 
 
 ### Presentation templates: 
+Adapt as you see best:
+* Model presentation template [click here](https://github.com/physicell-training/ws2021/raw/main/pptx_source/PhysiCell_ws2021_final_presentation_template(model).pptx)
+* Toll presentation template [click here](https://github.com/physicell-training/ws2021/raw/main/pptx_source/PhysiCell_ws2021_final_presentation_template(tool).pptx)
 
 ### 11-11:40 Team 1 presentation (E) 
 ### 11:40-12:20 Team 3 presentation (E) 
