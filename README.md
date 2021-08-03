@@ -52,38 +52,48 @@ Work with custom cell variables, custom simulation parameters, microenvironment 
 * Video: [click here](https://youtu.be/Fvd3aQ63fK4) 
 
 ### Session 7: Functions in PhysiCell
-Learn about custom C++ cell functions. Use the full modeling workflow to model oxygen-dependent birth, death, and motility. Lots of handy C++ tidbits.  **(approx 80 min)**
+Learn about custom C++ cell functions to "encode" cell behavioral rules and hypotheses. 
+Use the full modeling workflow to simulate oxygen-dependent birth, death, and motility. Lots of handy C++ tidbits.  **(approx 80 min)**
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session7.pdf)
 * Code: [click here](https://github.com/physicell-training/ws2021/tree/main/code/Session_7)
 * Video: [click here](https://youtu.be/ygK7THTN_QU)
 
 ### Session 8: Chemical Communication in PhysiCell
+Learn about chemical cell-cell communication. Run through the full modeling workflow with examples based on quorum sensing in cell colonies. **(approx 60 min)**
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session8.pdf)
 * Code: [click here](https://github.com/physicell-training/ws2021/tree/main/code/Session_8) 
 * Video: [click here](https://youtu.be/tu3gUseGY8g)
 
 ### Special Session: PhysiBoSS enables multiscale simulations of signalling pathways
-A special guest lecture by Arnau Montagud (Barcelona Supercomputing Center) on PhysiBoSS, which integrates MaBoSS Boolean networks in PhysiCell agents. 
+A special guest lecture by Arnau Montagud (Barcelona Supercomputing Center) on PhysiBoSS, which integrates MaBoSS Boolean networks in PhysiCell agents. **(approx 65 min)**
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_PhysiBoSS.pdf) 
 * Video: [click here](https://youtu.be/2w2-Q-gvO4U)
 
 ### Session 9: Contact testing and pressure
+Learn about testing for contact with other cells and a nondimensionalized mechanical pressure. **(approx 15 min)**
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session9.pdf)
 * Video: [click here](https://youtu.be/RwzWBBXkEEg)
 
 ### Session 10: Contact examples
+Learn about contact interaction functions, including standardized functions for spring-like cell-cell adhesion. 
+See an example inspired by developmental biology where cells aggregate and link to form "worms" that travel 
+collectively up chemical gradients. In the special contact functions, linked cells use a signal that diffuses 
+across cell junctions to determine if they are head, middle, or tail cells. **(approx 50 min)**
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session10.pdf)
 * Code: [click here](https://github.com/physicell-training/ws2021/tree/main/code/Session_10)
 * Video: [click here](https://youtu.be/_k4BdLm5LTU)
 
-### Session 11: Intracellular Modeling Part 1 (interactive)
+### Session 11: Intracellular Modeling Part 1
+Learn about integrating intracellular ODE-based signaling models in PhysiCell agents, using libRoadrunner. **(approx 55 min)**
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session11.pdf)
 * Video: [click here](https://youtu.be/w3gdgFSwtms) 
  
-### Session 12: Intracellular Modeling Part 2 (interactive)
+### Session 12: Intracellular Modeling Part 2
+Continue learning about intracellular modeling, including tips on using COPASI to generate PhysiCell-compatible SBML. **(approx 90 min)**
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session12.pdf)
 * Video: [click here](https://youtu.be/lMtG44cJejM) 
 
 ### Session 13: Sharing models via nanoHUB
+Learn about converting PhysiCell projects to cloud-hosted, "zero-install" models on nanoHUB. **(approx 25 min)**
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session13.pdf)
 * Video: [click here](https://youtu.be/lTQCRWzJnyI) 
