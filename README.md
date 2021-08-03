@@ -46,11 +46,13 @@ Run through a complete project in the intermediate modeling workflow: start with
 * Code: [click here](https://github.com/physicell-training/ws2021/tree/main/code/Session_5)
 * Video: [click here](https://youtu.be/YpQV65CJdGw) 
 
-### Session 6: Introduction to Custom Variables, Parameters, and C++ searches
+### Session 6: Introduction to Custom Variables, Parameters, Microenvironment, and C++ searches
+Work with custom cell variables, custom simulation parameters, microenvironment boundary setup, and searches (in C++ project source code). **(approx 20 min)**
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session6.pdf)
 * Video: [click here](https://youtu.be/Fvd3aQ63fK4) 
 
 ### Session 7: Functions in PhysiCell
+Learn about custom C++ cell functions. Use the full modeling workflow to model oxygen-dependent birth, death, and motility. Lots of handy C++ tidbits.  **(approx 80 min)**
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session7.pdf)
 * Code: [click here](https://github.com/physicell-training/ws2021/tree/main/code/Session_7)
 * Video: [click here](https://youtu.be/ygK7THTN_QU)
