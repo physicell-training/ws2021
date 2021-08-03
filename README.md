@@ -14,28 +14,34 @@ To arrive prepared, all workshop participants should work through the pre-worksh
 * Video: [click here](https://www.youtube.com/watch?v=Jp3ZOMt761M)
 
 ## PhysiCell Virtual Course
-### Session 0: Introduction to agent-based modeling and PhysiCell (approx 40 min)
+### Session 0: Introduction to agent-based modeling and PhysiCell
+Learn about the motivation for agent-based modeling, briefly survey agent-based modeling techniques, introduce (and contextualize) PhysiCell, and show recent examples of PhysiCell-powered investigations. **(approx 40 min)**
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session0.pdf)
 * Video: [click here](https://youtu.be/RWI0SKX49eo)
 
-### Session 1: Working with Projects in PhysiCell (approx 20 min)
+### Session 1: Working with Projects in PhysiCell
+Learn how to work with sample (and template) projects in PhysiCell: populating/depopulating sample projects, compiling, editing settings, running, viewing results, and clearing data. **(approx 20 min)**
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session1.pdf)
 * Video: [click here](https://youtu.be/fP7-n_RlITU) 
 
 ### Session 2: PhysiCell First Dive 
+Learn about cells, phenotype, and cell definitions in PhysiCell. Introduce the basic, intermediate, and advanced modeling workflows. Run through the basic modeling workflow and explore data in a Jupyter notebook. **(approx 60 min)**
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session2.pdf)
 * Code: [click here](https://github.com/physicell-training/ws2021/tree/main/code/Session_2) 
 * Video: [click here](https://youtu.be/fSpyhVry3eU) 
 
 ### Session 3: Introduction to Cell Phenotype in PhysiCell (Part 1)
+Start a detailed exploration of cell phenotype in PhysiCell. **(approx 40 min)**
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session3.pdf)
 * Video: [click here](https://youtu.be/EqqEQWRaoak) 
 
 ### Session 4: Introduction to Cell Phenotype in PhysiCell (Part 2)
+Finish a detailed exploration of cell phenotype in PhysiCell. **(approx 50 min)**
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session4.pdf)
 * Video: [click here](https://youtu.be/Kb47UeMrTjY) 
 
-### Session 5: Session 5: A complete example (interactive) 
+### Session 5: A complete example
+Run through a complete project in the intermediate modeling workflow: start with the template project, customize the model with the graphical model builder, and run. **(approx 85 min)**
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session5.pdf)
 * Code: [click here](https://github.com/physicell-training/ws2021/tree/main/code/Session_5)
 * Video: [click here](https://youtu.be/YpQV65CJdGw) 
