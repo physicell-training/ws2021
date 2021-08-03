@@ -25,7 +25,7 @@ Learn how to work with sample (and template) projects in PhysiCell: populating/d
 * Video: [click here](https://youtu.be/fP7-n_RlITU) 
 
 ### Session 2: PhysiCell First Dive 
-Learn about cells, phenotype, and cell definitions in PhysiCell. Introduce the basic, intermediate, and advanced modeling workflows. Run through the basic modeling workflow and explore data in a Jupyter notebook. **(approx 60 min)**
+Learn about cells, phenotype, and cell definitions in PhysiCell. Introduce the basic, intermediate, and advanced modeling workflows. Run through the basic workflow and explore data in a Jupyter notebook. **(approx 60 min)**
 * Slides: [click here](https://github.com/physicell-training/ws2021/blob/main/pdfs/PhysiCell_ws2021_Session2.pdf)
 * Code: [click here](https://github.com/physicell-training/ws2021/tree/main/code/Session_2) 
 * Video: [click here](https://youtu.be/fSpyhVry3eU) 
